@@ -18,3 +18,4 @@ or Run by docker compose
 test
 
 # todo-jenkins
+changed to pull trigger
